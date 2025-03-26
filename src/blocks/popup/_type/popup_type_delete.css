@@ -1,0 +1,7 @@
+.popup_type_delete .popup__content {
+  min-height: 181px;
+}
+
+.popup_type_delete .popup__form {
+  margin-top: 0;
+}

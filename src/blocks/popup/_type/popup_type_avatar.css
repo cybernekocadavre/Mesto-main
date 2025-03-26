@@ -1,0 +1,7 @@
+.popup_type_avatar .popup__content {
+  min-height: 272px;
+}
+
+.popup_type_avatar .popup__button {
+  margin-top: 12px;
+}
