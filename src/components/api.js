@@ -1,8 +1,8 @@
 // Объект настроек API
 const configAPI = {
-  baseUrl: "https://nomoreparties.co/v1/wff-cohort-18",
+  baseUrl: "https://nomoreparties.co/v1/apf-cohort-202",
   headers: {
-    authorization: "4849bf4c-4e84-431f-9d56-8ee34f9e7cda",
+    authorization: "99f5c381-f5fd-459e-84cd-e6e54a047885",
     "Content-Type": "application/json",
   },
 };
